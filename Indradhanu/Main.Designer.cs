@@ -666,12 +666,12 @@
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 17.16742F));
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 9.119031F));
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 26.42968F));
-            this.tableLayoutPanel4.Controls.Add(this.label13, 0, 0);
             this.tableLayoutPanel4.Controls.Add(this.dateTimePicker2, 1, 0);
             this.tableLayoutPanel4.Controls.Add(this.comboBox2, 5, 0);
             this.tableLayoutPanel4.Controls.Add(this.numericUpDown1, 3, 0);
             this.tableLayoutPanel4.Controls.Add(this.label16, 4, 0);
             this.tableLayoutPanel4.Controls.Add(this.label15, 2, 0);
+            this.tableLayoutPanel4.Controls.Add(this.label13, 0, 0);
             this.tableLayoutPanel4.Location = new System.Drawing.Point(3, 35);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 1;
@@ -748,11 +748,11 @@
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.label15.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label15.Location = new System.Drawing.Point(263, 0);
+            this.label15.Location = new System.Drawing.Point(261, 0);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(39, 18);
+            this.label15.Size = new System.Drawing.Size(41, 18);
             this.label15.TabIndex = 4;
-            this.label15.Text = "Date";
+            this.label15.Text = "Time";
             // 
             // tableLayoutPanel3
             // 
