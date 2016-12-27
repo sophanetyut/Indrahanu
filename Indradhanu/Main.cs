@@ -63,5 +63,15 @@ namespace Indradhanu
         {
 
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label21_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
