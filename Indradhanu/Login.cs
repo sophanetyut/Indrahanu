@@ -18,6 +18,12 @@ namespace Indradhanu
             this.StartPosition = FormStartPosition.CenterScreen;
             
         }
-        
+        Main frm_main = new Main();
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frm_main.ShowDialog();
+            this.Close();
+        }
     }
 }
